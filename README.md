@@ -1,2 +1,3 @@
 # hello-world
-Quick way to get back to GIT hub
+It was some time since using git.
+So better do some testing.
